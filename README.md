@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm a 17 years old autistic girl from Brazil who is still learning how to program. And I actually develloping two games and comics.<br><br>- Games<br>- Animation<br>- Reading<br>- Music  
 
-[![]https://64.media.tumblr.com/452115a94309de388a764d1fd618c39f/tumblr_inline_p336v0UHdh1qdiwz3_540.gif
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mizanello.bsky.social) 
